@@ -1,7 +1,5 @@
 # Rust Image Editor
 
-![example workflow](https://github.com/pugsedo/rust-img-editor/actions/workflows/rust.yml/badge.svg)
-
 This is a simple Rust web app which allows you to edit images.
 
 ## Features
